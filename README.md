@@ -1,6 +1,6 @@
 # Hi there 👋 I'm Pavitra Asthana
 
-I'm a passionate software engineer and aspiring full-stack developer with real-world experience as an **Application Software Engineer Intern (ASE)** at **ServiceNow**. I love building scalable, user-centric applications and exploring emerging technologies that push the boundaries of what’s possible in software development.
+I'm a passionate software engineer and aspiring full-stack developer with real-world experience as an **Application Software Engineer (ASE)** at **ServiceNow**. I love building scalable, user-centric applications and exploring emerging technologies that push the boundaries of what’s possible in software development.
 
 ---
 
